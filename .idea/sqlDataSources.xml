@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="59cb9579-77ce-4417-9e73-9a61d63b155d" name="webproject_sugarrush@localhost Mapping [2]">
+      <data-sources db="eb8098fd-98a6-432b-8773-ac79f4c66590" ddl="ed27921f-2240-438c-8c56-ec3354aabd47" />
+      <scope>
+        <node kind="schema" qname="webproject_sugarrush" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="ed27921f-2240-438c-8c56-ec3354aabd47" />
+          <option name="name" value="webproject_sugarrush@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/WebProject/webPro_db.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
